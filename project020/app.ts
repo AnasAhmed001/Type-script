@@ -1,6 +1,6 @@
-let countries : string[] = ['pakistan','india','america','canada','saudia'];
-console.log("list of countries:");
-for(let top of countries ){
+let languages : string[] =['english','urdu','hindi','spanish'];
+console.log("list of languages:");
+for(let top of languages){
     console.log(top);
     
 }
